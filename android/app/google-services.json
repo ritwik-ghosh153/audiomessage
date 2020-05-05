@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530379045324",
+    "firebase_url": "https://audiomessage.firebaseio.com",
+    "project_id": "audiomessage",
+    "storage_bucket": "audiomessage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530379045324:android:a0a6e6edaf18d58160c569",
+        "android_client_info": {
+          "package_name": "com.ghosh.customerchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530379045324-bg63t9a0dbttjvd3j9gkgnihioilkbmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtfaYOFqPJHSJQegzg2yaQXwgTNAHbJ6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530379045324-bg63t9a0dbttjvd3j9gkgnihioilkbmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
